@@ -39,4 +39,5 @@ _Estimated time from start to installation finished: two to five minutes_
 ## [How to capture a disk](./capture.md)
 
 _Written June 2nd, 2020 by DK_
+
 _Updated September 22nd, 2020_
