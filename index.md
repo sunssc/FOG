@@ -9,7 +9,6 @@ _Estimated time from start to installation finished: two to five minutes_
 
 1. Required BIOS settings:
    1. Under the "System Configuration" section:
-   
       1. **Integrated NIC**
 	     1. [Checked] Enable UEFI Network Stack
 		 2. Enabled w/ PXE
@@ -20,12 +19,10 @@ _Estimated time from start to installation finished: two to five minutes_
 	  3. *You need to restart and re-enter BIOS if UEFI Network Stack was previously disabled*
 	  
    2. Under the "General" section:
-   
       1. **Boot Sequence**
 	     1. On the rightmost column, "Onboard NIC (IPv4)" is at the TOP
 		 
    3. Under the "Secure Boot" section:
-   
       1. **Secure Boot Enable**
 	     1. [Unchecked] Enable
 		 
