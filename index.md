@@ -17,7 +17,7 @@ _Estimated time from start to installation finished: two to five minutes_
       2. **SATA Operation**
 	     1. AHCI
 		 
-	  3. *You need to restart and re-enter BIOS if EUFI Network Stack was previously disabled*
+	  3. *You need to restart and re-enter BIOS if UEFI Network Stack was previously disabled*
 	  
    2. Under the "General" section:
    
