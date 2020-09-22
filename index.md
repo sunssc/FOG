@@ -1,4 +1,4 @@
-## Welcome to the SunSSC FOG PXE Deployment Guide
+## SunSSC F.O.G. PXE Deployment Guide
 ### Using F.O.G. (Free Open-source Ghost)
 ![FOG](./maxresdefault.jpg)
 
