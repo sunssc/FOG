@@ -8,13 +8,21 @@ PXE (pronounced like “pixie”) all generally work by loading a small O.S. ove
 _Estimated time from start to installation finished: two to five minutes_
 
 1. Required BIOS settings:
+
    1. Under the "System Configuration" section:
+   
       1. **Integrated NIC**
+	  
 	     1. [Checked] Enable UEFI Network Stack
+		 
 		 2. Enabled w/ PXE
+		 
       2. **SATA Operation**
+	  
 	     1. AHCI
+		 
 	  3. *You need to restart and re-enter BIOS if EUFI Network Stack was previously disabled*
+	  
    2. Under the "General" section:
       1. **Boot Sequence**
 	     1. On the rightmost column, "Onboard NIC (IPv4)" is at the TOP
